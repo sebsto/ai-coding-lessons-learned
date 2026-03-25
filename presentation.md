@@ -56,7 +56,7 @@ Start with Brainstorming, Not Coding
 - Challenge the agent's proposals — and let it challenge yours
 - The agent surfaces assumptions you didn't know you had
 - Ask _"what are the tradeoffs?"_ before writing a single line
-- Ask to save a sumary for the discussion
+- Ask to save a summary for the discussion
 
 ![image:w:50%](images/Gemini_Generated_Image_nka3wbnka3wbnka3(3).png)
 
