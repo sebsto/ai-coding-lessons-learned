@@ -1,0 +1,23 @@
+Create a presentation outline for a 30 minutes presentation about lessons learned when using AI Coding agents. I want to start with a brief tour of some project I coded with AI Coding agents the last month to establish credibility. Finish with a clear call to actions.
+
+Here are my ideas about that talk. Structure them in a natural way that you'll decide. Pay focus on the transitions and the evolution from easy to hard. I want a story to tell, not just a list of best practices.
+
+<IDEAS>
+1. start with brainstorming, ideation, design. let the agent propose design, challenge the agent or challenge your own decisions or assumptions.
+2. SDLC (BMAD or AISDLC power) to start large projects. Spec driven development for smaller ones or features. 
+3. Model : auto / sonnet for planning and iterative. Opus 4.6 for heavy lifting 
+4. Write multiple specs, not just one to break things down . Each new feature or bug fix is a spec. One spec at a time. I use feature branch. Do a code review on specs (GitHub Copilot,...)
+5. use specialized skills / powers depending on the task : web design, SEO, Swift iOS, 
+6. feature dev - one at a time. Design and basic scaffolding is also a feature. 
+7. feedback loop  
+- while working in sessions: compiler to check for syntax, tests provide feedback about 
+- in between sessions : when things goes wrong or when the agent makes repetitive mistakes : build a memory, add instructions to your steering docs
+6. context management, subagent. CLI, start multiple in paralle, use git worktree 
+7. code reviews cycle to make sure the code stay aligned with steering doc
+8. limit mcp use -> Du'An presentation MCP or Not MCP. Many MCP servers can be replaced by a well written power / skill. or a simple bash and scripting language.
+9. No only code : prepare podcast recording for summit 
+
+
+====
+
+After that, I subitted feedback on slides and proposed changed. 5-10 iterations

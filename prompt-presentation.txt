@@ -1,0 +1,13 @@
+Create a terminal based presentation based on the markdown file content. The images folder has all the images (one per slide, index is 0 based). Use the presenterm format. I have it installed already. Read presenterm doc and samples from here https://github.com/mfontanini/presenterm before generating anything.
+
+==== 
+
+The presentation was not working (error message when loading). I just copy / paste the error and iterated as long as errors where present.
+
+====
+
+Can we have the image on the left and displayed as soon as the slide appears and the text on right column. Be consistent with bullet points. on some slides they appear all at all, on some I need to click. Make them appear all at once everywhere.
+
+====
+
+now that text appears all at once, I think it's good to delete the layout column and put the image on bottom of the text
