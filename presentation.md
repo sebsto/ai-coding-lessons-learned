@@ -65,7 +65,7 @@ Start with Brainstorming, Not Coding
 Structure Before Speed: Specs, Not Prompts
 ===
 
-- Large projects → structured SDLC methodology (BMAD, AI-SDLC)
+- Large projects → structured SDLC methodology (BMAD, AI-DLC)
 - Smaller projects / features → spec-driven development
 - Every feature, every bug fix = its own spec
 - A spec forces you to think and gives the agent clear guardrails
